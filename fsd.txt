@@ -1,4 +1,5 @@
-full stack developement
-fifth sem
-computer science and engneering
-siddaganga polytechnic
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
